@@ -1,6 +1,7 @@
 #! Important
 django-social-media-template-main
 templates
+static
 
 #? Django
 *.log
