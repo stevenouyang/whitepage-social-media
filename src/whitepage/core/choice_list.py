@@ -1,0 +1,42 @@
+class BasicChoice:
+  LIST_PROVINSI = [
+    ('Aceh', 'Aceh'),
+    ('Sumatera Utara', 'Sumatera Utara'),
+    ('Sumatera Barat', 'Sumatera Barat'),
+    ('Riau', 'Riau'),
+    ('Jambi', 'Jambi'),
+    ('Sumatera Selatan', 'Sumatera Selatan'),
+    ('Bengkulu', 'Bengkulu'),
+    ('Lampung', 'Lampung'),
+    ('Bangka Belitung', 'Bangka Belitung'),
+    ('Kepulauan Riau', 'Kepulauan Riau'),
+    ('DKI Jakarta', 'DKI Jakarta'),
+    ('Jawa Barat', 'Jawa Barat'),
+    ('Jawa Tengah', 'Jawa Tengah'),
+    ('Daerah Istimewa Yogyakarta', 'Daerah Istimewa Yogyakarta'),
+    ('Jawa Timur', 'Jawa Timur'),
+    ('Banten', 'Banten'),
+    ('Bali', 'Bali'),
+    ('Nusa Tenggara Barat', 'Nusa Tenggara Barat'),
+    ('Nusa Tenggara Timur', 'Nusa Tenggara Timur'),
+    ('Kalimantan Barat', 'Kalimantan Barat'),
+    ('Kalimantan Tengah', 'Kalimantan Tengah'),
+    ('Kalimantan Selatan', 'Kalimantan Selatan'),
+    ('Kalimantan Timur', 'Kalimantan Timur'),
+    ('Kalimantan Utara', 'Kalimantan Utara'),
+    ('Sulawesi Utara', 'Sulawesi Utara'),
+    ('Sulawesi Tengah', 'Sulawesi Tengah'),
+    ('Sulawesi Selatan', 'Sulawesi Selatan'),
+    ('Sulawesi Tenggara', 'Sulawesi Tenggara'),
+    ('Gorontalo', 'Gorontalo'),
+    ('Maluku', 'Maluku'),
+    ('Maluku Utara', 'Maluku Utara'),
+    ('Papua Barat', 'Papua Barat'),
+    ('Papua', 'Papua'),
+  ]
+    
+class SpecialChoice:
+  BUSINESS_FIELD_LISTS = [
+    ('Manufacturer', 'Manufacturer'),
+    ('Digital Agency', 'Digital Agency'),
+  ]
